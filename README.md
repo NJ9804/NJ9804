@@ -1,62 +1,97 @@
 <h1 align="center">Hi 👋, I'm Nandana J</h1>
-<h3 align="center">A Computer Science Engineer passionate about building dynamic and responsive web applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nj9804&label=Profile%20views&color=0e75b6&style=flat" alt="nj9804" />
-  <img src="https://img.shields.io/github/followers/nj9804?label=Followers&style=social" alt="GitHub Followers" />
+Full Stack Developer • AI & Machine Learning Enthusiast
+</p>
+
+<p align="center">
+Building intelligent applications with modern web technologies and machine learning.
+</p>
+
+<p align="center">
+<a href="https://nandanaj.vercel.app/">Portfolio</a> •
+<a href="mailto:jnandana04@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/nandana-j-9b188a22a">LinkedIn</a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🔭 I’m currently working on **Web Development projects**  
-- 🌱 I’m currently learning **Advanced Backend Development and Cloud Integration**  
-- 📫 Reach me at **jnandana04@gmail.com**  
-- 💬 Ask me about **Data Structures, Algorithms, or App Development**  
-- ⚡ Fun fact: I love solving puzzles and exploring minimalist UI designs!
+## 👩‍💻 About Me
+
+* 💻 I enjoy building **full-stack applications and AI-powered tools**
+* 🧠 Interested in **machine learning, intelligent systems, and data-driven applications**
+* ⚙️ Exploring **scalable backend systems and cloud architectures**
+* 🎨 I like designing **clean and minimalist user interfaces**
 
 ---
 
-### 🌐 Connect With Me:
+## 🚀 Projects
+
+🧠 **AI Document Rack**
+AI-powered document management platform with semantic search across PDFs and images.
+
+📊 **ChartEase**
+Generate dynamic charts from datasets using natural language queries.
+
+🏫 **ControlNest**
+Real-time communication platform for structured college coordination.
+
+🧑‍💼 **HireXpert**
+AI-powered recruitment system for resume analysis and candidate ranking.
+
+🌧 **DerainNet**
+Deep learning model that removes rain artifacts from images.
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <a href="https://linkedin.com/in/nandana-j-9b188a22a" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/the_karate_kid04" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools:
+
+
+## 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
+<img src="https://streak-stats.demolab.com?user=NJ9804&hide_border=true"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nj9804&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nj9804&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nj9804&layout=compact&theme=radical" alt="Top Languages" />
+
+<a href="https://linkedin.com/in/nandana-j-9b188a22a">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jnandana04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-
+<p align="center">
+⭐ Thanks for visiting my profile
+</p>
